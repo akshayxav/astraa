@@ -275,7 +275,7 @@ ul {
 
 .abouthead {
   margin: 50px;
-  background-image: url(./assets/about\ banner.jpeg);
+  background-image: url(banner.jpeg);
   border-radius: 30px;
   background-position: center;
   background-size: cover;
@@ -542,7 +542,7 @@ frontimg{
     gap: 20px;
 }
 .card-list .card-item {
-  background-image: url("./assets/bg-6.jpg"); 
+  background-image: url("bg-6.jpg"); 
   background-repeat: no-repeat; width: auto;
    height: auto;
     padding: 2px;
